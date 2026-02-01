@@ -5,7 +5,7 @@ Actualmente enfocada en construir APIs y fortalecer fundamentos de programación
 
 ---
 
-## Lenguajes
+## 💻 Lenguajes
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="images/logo_python.png" width="40"/></a>
   &nbsp;
