@@ -8,7 +8,7 @@ Actualmente enfocada en construir APIs y fortalecer fundamentos de programación
 ## Lenguajes
 <p align="left">
   <img src="images/logo_python.png" width="40"/>
-  <br>
+  &nbsp;
   <img src="images/logo_r.png" width="40"/>
 </p>
 
