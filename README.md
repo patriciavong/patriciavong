@@ -6,9 +6,12 @@ Actualmente enfocada en construir APIs y fortalecer fundamentos de programación
 ---
 
 ## Lenguajes
-<img src="images/logo_python.png" width="40">
-<img src="images/logo_r.png" width="40">
+<p align="left">
+  <img src="images/logo_python.png" width="40"/>
+  <img src="images/logo_r.png" width="40"/>
+</p>
 
+---
 
 📈 Siempre aprendiendo, siempre construyendo
 
