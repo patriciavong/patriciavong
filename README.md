@@ -1,18 +1,14 @@
-# Hola, soy Patricia ✨
+# ✨ Hola, soy Patricia
 
 Desarrolladora backend en formación, con background en análisis y ciencia de datos.  
 Actualmente enfocada en construir APIs y fortalecer fundamentos de programación.
 
 ---
 
-## 🛠️ Stack Tecnológico
-
-**Lenguajes**
-- Python  
-- SQL
-- R 
+## Lenguajes
+<img src="images/logo_python.png" width="40">
+<img src="images/logo_r.png" width="40">
 
 
-
-⭐ Siempre aprendiendo, siempre construyendo
+📈 Siempre aprendiendo, siempre construyendo
 
