@@ -16,5 +16,5 @@ Actualmente enfocada en construir APIs y fortalecer fundamentos de programación
 
 ---
 
-📈 Siempre aprendiendo, siempre construyendo
+📈 Siempre aprendiendo y construyendo
 
