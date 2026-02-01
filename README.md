@@ -7,9 +7,9 @@ Actualmente enfocada en construir APIs y fortalecer fundamentos de programación
 
 ## Lenguajes
 <p align="left">
-  <a href="https://www.python.org/"><img src="images/logo_python.png" width="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="images/logo_python.png" width="40"/></a>
   &nbsp;
-  <a href="https://www.r-project.org/"><img src="images/logo_r.png" width="40"/></a>
+  <a href="https://www.r-project.org/" target="_blank"><img src="images/logo_r.png" width="40"/></a>
 </p>
 
 ---
